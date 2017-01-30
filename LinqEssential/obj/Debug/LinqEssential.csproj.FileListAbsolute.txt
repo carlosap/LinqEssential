@@ -1,0 +1,10 @@
+C:\Users\cperez\Documents\Visual Studio 2015\Projects\LinqEssential\LinqEssential\bin\Debug\LinqEssential.exe.config
+C:\Users\cperez\Documents\Visual Studio 2015\Projects\LinqEssential\LinqEssential\bin\Debug\LinqEssential.exe
+C:\Users\cperez\Documents\Visual Studio 2015\Projects\LinqEssential\LinqEssential\bin\Debug\LinqEssential.pdb
+C:\Users\cperez\Documents\Visual Studio 2015\Projects\LinqEssential\LinqEssential\obj\Debug\LinqEssential.csprojResolveAssemblyReference.cache
+C:\Users\cperez\Documents\Visual Studio 2015\Projects\LinqEssential\LinqEssential\obj\Debug\LinqEssential.exe
+C:\Users\cperez\Documents\Visual Studio 2015\Projects\LinqEssential\LinqEssential\obj\Debug\LinqEssential.pdb
+C:\Users\cperez\Documents\Visual Studio 2015\Projects\LinqEssential\LinqEssential\bin\Debug\ObjectDumper.dll
+D:\LinqEssential\LinqEssential.git\LinqEssential\bin\Debug\LinqEssential.exe.config
+D:\LinqEssential\LinqEssential.git\LinqEssential\obj\Debug\LinqEssential.exe
+D:\LinqEssential\LinqEssential.git\LinqEssential\obj\Debug\LinqEssential.pdb
